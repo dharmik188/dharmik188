@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at ****
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dharmikpatel.me)**
 
 - 📫 How to reach me **dharmik3292@gmail.com**
 
