@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on python project
+- 🔭 I’m currently working on App Devlopment project
 
-- 🌱 I’m currently learning **Python Core.**
+- 🌱 I’m currently learning **React Native.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
